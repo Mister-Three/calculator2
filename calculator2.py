@@ -1,5 +1,6 @@
 import math
 import time
+import webbrowser
 print("Hello, what shall you be refered to as?")
 user_name = input()
 print("Hello, " + user_name)
@@ -42,8 +43,8 @@ while True:
     if calc == 'pi':
         print(math.pi)
     if calc == 'help':
-        print("+, -, *, /, pi, help")
-        time.sleep(1)
+        URL = 'https://github.com/Mister-Three/calculator2/wiki'
+        webbrowser.open(URL)
     close = input("Do you want to close this tab? Y/N \n")
     if close == 'Y':
         exit()
