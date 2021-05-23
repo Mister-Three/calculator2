@@ -1,14 +1,14 @@
 # My second version of a calculator
 FAQ: 
 
-Q: This keeps on crashing! What do I do?
-A: File an issue 
+Question: This keeps on crashing! What do I do?
+Answer: File an issue 
 
-Q: I want to make edits to this
-A: File a pull request with the changes you made make sure to credit me though 
+Question: I want to make edits to this
+Answer: File a pull request with the changes you made make sure to credit me though 
 
-Q: This sucks!
-A: cool.
+Question: This sucks!
+Answer: cool.
 
-Q: Why did you make this?
-A: I was bored and it's not hard
+Question: Why did you make this?
+Answer: I was bored and it's not hard
